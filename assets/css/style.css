@@ -74,7 +74,8 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
+/* grouped elements with the same style together */
+.search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
     max-height: 200px;
 }
 
@@ -87,10 +88,6 @@ p {
     margin-right: 25px;
 }
 
-.online-reputation-management img {
-    max-height: 200px;
-}
-
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -99,10 +96,6 @@ p {
 .float-right {
     float: right;
     margin-left: 25px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
 }
 
 .social-media-marketing h2 {
