@@ -33,3 +33,6 @@ THEN I find a concise, descriptive title
 * After that I started cleaning up code from top to bottom on the HTML to meet the acceptance criteria.
 * Next I tested the operation of the page and fixed anything that was broken.
 * Finally I reviewed the css file and made changes so that it match the flow of the HTML file and double checked the operation of the page.
+
+## Screen Shot
+![Getting Started](./assets/images/screen-shot.png)
