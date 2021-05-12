@@ -60,6 +60,12 @@ p {
     background-position: center;
 }
 
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -123,11 +129,7 @@ p {
     font-size: 36px;
 }
 
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
+/* Moved content selector to reflect the flow of the page */
 
 .benefits {
     margin-right: 20px;
