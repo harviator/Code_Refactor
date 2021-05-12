@@ -48,11 +48,10 @@ p {
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
-}
-
-.header nav ul {
     list-style-type: none;
 }
+
+/* list-style-type: none to .header nav */
 
 .header nav ul li {
     display: inline-block;
