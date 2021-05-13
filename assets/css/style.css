@@ -105,7 +105,7 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+.benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -121,10 +121,12 @@ p {
     max-width: 150px;
 }
 
+/*
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
 }
+*/
 
 .benefit-brand h3 {
     margin-bottom: 10px;
@@ -137,10 +139,12 @@ p {
     max-width: 150px;
 }
 
+/*
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
+*/
 
 .benefit-cost h3 {
     margin-bottom: 10px;
@@ -160,6 +164,4 @@ p {
     text-align: center;
 }
 
-.footer h2 {
-    font-size: 20px;
-}
+/* Removed the footer h2 20px */
